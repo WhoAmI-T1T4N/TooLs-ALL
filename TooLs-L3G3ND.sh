@@ -3,7 +3,7 @@ figlet Tools
 figlet Termux 
 echo "==========================================="
 echo "Author : Mr.T1T4N"
-echo "Team : Indonesia Cyber | Linux Cyber"
+echo "Team : Indonesia Cyber | Linux Cyber | Legend Cyber"
 echo "Youtube : T1T4N TZY"
 echo "==========================================="
 echo "==========================================="
